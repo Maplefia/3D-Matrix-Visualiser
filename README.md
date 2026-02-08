@@ -24,3 +24,6 @@ npm run dev
 -  Eigenvectors can also be toggled on or off. Note complex (magenta) eigenvectors will not be shown.
 -  To play the transformations - either use the step button or the animate button, which oscillates through iterations 0 to 9.
 
+<img width="1457" height="820" alt="UI and cube" src="https://github.com/user-attachments/assets/d9d37bb1-a7d2-4ec1-a317-68bddb4c2b99" />
+
+
